@@ -1,4 +1,4 @@
-# [Amazon Aurora: amazon_aurora.md](amazon_aurora.md)
+# [MySQL: mysql.md](mysql.md)
 # [Cassandra: cassandra.md](cassandra.md)
 # [Hbase: hbase.md](hbase.md)
 # [MariaDB: mariadb.md](mariadb.md)
