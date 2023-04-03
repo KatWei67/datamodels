@@ -1,3 +1,2 @@
-Firebase Realtime Database: https://firebase.google.com/
-It's a cloud-base NoSQL database with JSON data model. It allows Firebase Realtime Database to
-be scalable and real-time. 
+BerkeleyDB: https://www.oracle.com/database/technologies/related/berkeleydb.html
+In contrast to most other database systems, Berkeley DB provides relatively simple data access services. Records in Berkeley DB are (key, value) pairs.
