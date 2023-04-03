@@ -1,4 +1,4 @@
-# Amazon Aurora: amazon_aurora.md
+# Amazon Aurora: [amazon_aurora.md]
 # Cassandra: cassandra.md
 # Hbase: hbase.md
 # MariaDB: mariadb.md
